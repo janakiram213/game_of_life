@@ -6,7 +6,7 @@
 	<groupId>com.hubson</groupId>
 	<artifactId>lifegame</artifactId>
 	<version>0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>.war</packaging>
 
 	<name>LifeGame</name>
 	<description>Game of Life weird implementation</description>
