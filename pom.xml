@@ -27,8 +27,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
-
 	<name>LifeGame</name>
 	<description>Game of Life weird implementation</description>
 
@@ -71,12 +69,10 @@
 			<artifactId>h2</artifactId>
 		</dependency>	
 	</dependencies>
-	
-	<build>
-		<plugins>            			
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
+	 <plugins>            			
+		<plugin>
+	          	<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 			 <plugin>
             <groupId>org.apache.tomcat.maven</groupId>
