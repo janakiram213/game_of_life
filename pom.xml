@@ -28,7 +28,7 @@
 			</plugin>
 		</plugins>
 		
-	<name>LifeGame</name>
+	<name> LifeGame </name>
 	<description>Game of Life weird implementation</description>
 
 	<parent>
